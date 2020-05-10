@@ -1,9 +1,9 @@
-# Introduction_to_Data_Science_with_Python
+# Introduction to Data Science with Python
 
 ## Based on University of Michigan's coursera Intro to DS with Python course.
 
 ### Note: 
-Repository only includes source files and solutions for Week 2 to Week 4 assignments; Week 1 was a quiz. You can easily find Week 2-3 solutions online. Week 4 is definitely more difficult for a Py beginner.
+This repository contains Ipython notebooks of assignments and tutorials used in the course "Introduction to Data Science with Python", part of "Applied Data Science using Python Specialization" from University of Michigan offered by Coursera
 
 #### Hope this helps!
 #### Kudos !!! 
